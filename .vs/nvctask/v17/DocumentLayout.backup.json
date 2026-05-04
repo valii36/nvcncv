@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\nvctaskk\\nvctask\\nvctask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\nvctaskk\\nvctask\\nvctask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\nvctaskk\\nvctask\\nvctask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\nvctaskk\\nvctask\\nvctask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Migrations\\20260504082120_Nvc_eternat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nvctask\\Migrations\\20260504082120_Nvc_eternat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\nvctaskk\\nvctask\\nvctask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\nvctaskk\\nvctask\\nvctask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\nvctaskk\\nvctask\\nvctask\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "nvctask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "nvctask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwHcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T09:05:05.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nvctask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nvctask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T08:55:06.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "nvctask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "nvctask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:52:17.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260504082120_Nvc_eternat.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Migrations\\20260504082120_Nvc_eternat.cs",
+              "RelativeDocumentMoniker": "nvctask\\Migrations\\20260504082120_Nvc_eternat.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Migrations\\20260504082120_Nvc_eternat.cs",
+              "RelativeToolTip": "nvctask\\Migrations\\20260504082120_Nvc_eternat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:21:20.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "nvctask\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "nvctask\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T07:51:57.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\appsettings.json",
+              "RelativeDocumentMoniker": "nvctask\\appsettings.json",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\appsettings.json",
+              "RelativeToolTip": "nvctask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T07:48:32.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "nvctask\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Models\\Service.cs",
+              "RelativeToolTip": "nvctask\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T07:47:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Program.cs",
+              "RelativeDocumentMoniker": "nvctask\\Program.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\Program.cs",
+              "RelativeToolTip": "nvctask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T07:35:51.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
