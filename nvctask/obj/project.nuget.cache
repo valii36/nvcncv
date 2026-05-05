@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LJ4vTlw1T6k=",
+  "dgSpecHash": "g7LS7B1P9lQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\teyfu\\Desktop\\nvctaskk\\nvctask\\nvctask\\nvctask.csproj",
+  "projectFilePath": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\nvctask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\teyfu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\teyfu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -81,5 +81,15 @@
     "C:\\Users\\teyfu\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\teyfu\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\nvctask.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\nvctask.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
