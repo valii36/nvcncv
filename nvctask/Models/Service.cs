@@ -1,8 +1,7 @@
 ﻿namespace nvctask.Models
 {
-    public class Service
+    public class Service : BaseEntitiy
     {
-        public int Id { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
         public string Icons { get; set; }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nvctask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2fd51b276f15fa25f7dded889ad41fa84474be2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1fb394d61b201817a5775b28f632a62dc74ceec")]
 [assembly: System.Reflection.AssemblyProductAttribute("nvctask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nvctask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
