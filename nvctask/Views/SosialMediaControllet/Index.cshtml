@@ -1,56 +1,45 @@
 ﻿@model List<SosialMedia>
 
-
 <main class="main">
 
-    <!-- Page Title -->
-    <div class="page-title" data-aos="fade">
-        <div class="container">
-            <nav class="breadcrumbs">
-                <ol>
-                    <li><a href="index.html">Home</a></li>
-                    <li class="current">Team</li>
-                </ol>
-            </nav>
-            <h1>Team</h1>
-        </div>
-    </div><!-- End Page Title -->
-    <!-- Team Section -->
     <section id="team" class="team section">
-
         <div class="container">
-
             <div class="row gy-4">
+
                 @foreach (var item in Model)
                 {
-
-                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-6">
                         <div class="team-member d-flex align-items-start">
-                            <div class="pic"><img src="~/assets/img/person/@item.TeamMemberId" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>@item.TwitterUrl<h4>
-                                <span>@item.FacebookUrl</span>
 
-                                <p>@item.InstagramUrl</p>
+                            <div class="pic">
+                                <img src="~/assets/img/person/@item.TeamMemberId" class="img-fluid" alt="">
+                            </div>
+
+                            <div class="member-info">
+                                <h4>Team Member</h4>
+
                                 <div class="social">
-                                    <a href="@item.TwitterUrl"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="@item.FacebookUrl"><i class="bi bi-facebook"></i></a>
-                                    <a href="@item.InstagramUrl"><i class="bi bi-instagram"></i></a>
-                                    <a href="@item.LinkedInUrl"> <i class="bi bi-linkedin"></i> </a>
+                                    <a href="@item.TwitterUrl" target="_blank">
+                                        <i class="bi bi-twitter-x"></i>
+                                    </a>
+                                    <a href="@item.FacebookUrl" target="_blank">
+                                        <i class="bi bi-facebook"></i>
+                                    </a>
+                                    <a href="@item.InstagramUrl" target="_blank">
+                                        <i class="bi bi-instagram"></i>
+                                    </a>
+                                    <a href="@item.LinkedInUrl" target="_blank">
+                                        <i class="bi bi-linkedin"></i>
+                                    </a>
                                 </div>
+
                             </div>
                         </div>
-                    </div><!-- End Team Member -->
-
-
+                    </div>
                 }
+
             </div>
-                
-
         </div>
-
-    </section><!-- /Team Section -->
+    </section>
 
 </main>
-
-  

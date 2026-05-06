@@ -1,6 +1,6 @@
 ﻿namespace nvctask.Models
 {
-    public class SosialMedia : BaseEntitiy
+    public class SosialMedia : BaseEntity
     {
 
         public string TwitterUrl { get; set; }

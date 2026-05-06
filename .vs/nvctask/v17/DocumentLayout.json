@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\alll\\nvctaskk\\nvctask\\nvctask\\views\\portfolio\\detalis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\views\\portfolio\\detalis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\alll\\nvctaskk\\nvctask\\nvctask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\alll\\nvctaskk\\nvctask\\nvctask\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\alll\\nvctaskk\\nvctask\\nvctask\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\alll\\nvctaskk\\nvctask\\nvctask\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\alll\\nvctaskk\\nvctask\\nvctask\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\alll\\nvctaskk\\nvctask\\nvctask\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|c:\\users\\teyfu\\desktop\\alll\\nvctaskk\\nvctask\\nvctask\\models\\sosialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392667DE-A78F-4AE8-95B0-FCD58A8A60D0}|nvctask\\nvctask.csproj|solutionrelative:nvctask\\models\\sosialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detalis.cshtml",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Views\\Portfolio\\Detalis.cshtml",
+              "RelativeDocumentMoniker": "nvctask\\Views\\Portfolio\\Detalis.cshtml",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Views\\Portfolio\\Detalis.cshtml",
+              "RelativeToolTip": "nvctask\\Views\\Portfolio\\Detalis.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T22:23:18.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "nvctask\\Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "nvctask\\Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T22:05:34.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "nvctask\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "nvctask\\Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T22:03:06.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "nvctask\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "nvctask\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T22:02:07.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "nvctask\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "nvctask\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:24:46.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "nvctask\\Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Models\\TeamMember.cs",
+              "RelativeToolTip": "nvctask\\Models\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:10:46.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SosialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Models\\SosialMedia.cs",
+              "RelativeDocumentMoniker": "nvctask\\Models\\SosialMedia.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Models\\SosialMedia.cs",
+              "RelativeToolTip": "nvctask\\Models\\SosialMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:10:44.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "nvctask\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\teyfu\\Desktop\\alll\\nvctaskk\\nvctask\\nvctask\\Models\\Portfolio.cs",
+              "RelativeToolTip": "nvctask\\Models\\Portfolio.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:10:39.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

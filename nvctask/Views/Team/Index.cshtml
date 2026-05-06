@@ -31,11 +31,14 @@
                                 <span>@item.Position</span>
                                 <p>@item.Description</p>
                                 <div class="social">
-                                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""> <i class="bi bi-linkedin"></i> </a>
-                                </div>
+                                    @foreach (var sosialMedia in item.SosialMedias)
+                                            {
+                                                <a href="@sosialMedia.FacebookUrl" target="_blank"><i class="bi bi-facebook"></i></a>
+                                                <a href="@sosialMedia.TwitterUrl" target="_blank"><i class="bi bi-twitter"></i></a>
+                                                <a href="@sosialMedia.InstagramUrl" target="_blank"><i class="bi bi-instagram"></i></a>
+                                                <a href="@sosialMedia.LinkedInUrl" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                            }
+                                        </div>
                             </div>
                         </div>
                     </div><!-- End Team Member -->

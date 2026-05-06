@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using nvctask.Data;
+using nvctask.Models;
 
 namespace nvctask.Controllers
 {
@@ -14,7 +15,12 @@ namespace nvctask.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var sosialMedia = _context.SosialMedias.ToList();
+            foreach (var item in sosialMedia)
+            {
+                Console.WriteLine(item.Id);
+            }
+            return View(sosialMedia);
         }
 
         

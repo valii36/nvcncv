@@ -8,6 +8,9 @@ namespace nvctask.Data
         public DbSet<Service> Services { get; set; }
         public DbSet<TeamMember> TeamMembers { get; set; }
         public DbSet<SosialMedia> SosialMedias { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Portfolio> Portfolios { get; set; }
+
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {

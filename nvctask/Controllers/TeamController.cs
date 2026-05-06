@@ -1,22 +1,25 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using nvctask.Data;
 using nvctask.Models;
+using nvctask.Services.Interface;
 using System.Diagnostics;
 
 namespace nvctask.Controllers
 {
     public class TeamController : Controller
     {
-        private readonly AppDbContext _appDbContext;
+        private readonly ITeamMemberServices _teamMemberServices;
 
-        public TeamController(AppDbContext appDbContext)
+        public TeamController(ITeamMemberServices teamMemberServices)
         {
-            _appDbContext = appDbContext;
+            _teamMemberServices = teamMemberServices;
         }
-        public IActionResult Index()
+
+        public async Task<IActionResult> Index()
         {
-            var teamMembers =  _appDbContext.TeamMembers.ToList();
-            return View(teamMembers);
+            var teamMember = await _teamMemberServices.GetAllTeamMembersAsync();
+            return View(teamMember);
         }
 
     }
